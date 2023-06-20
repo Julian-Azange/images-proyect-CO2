@@ -1,0 +1,27 @@
+body {
+    font-size: 90px;
+    font-family: 'Black Ops One', cursive;
+    background-color: rgb(10, 8, 22);
+}
+
+h1 {
+    font-size: 300px;
+}
+
+
+
+
+@media (max-width: 140px) and (max-height: 100px) {
+    hr {
+        margin-top: 0.5px;
+        margin-bottom: 0.5px;
+    }
+    p {
+        font-size: 10px;
+        margin-bottom: 0px;
+    }
+    h1 {
+        font-size: 20px;
+    }
+
+}
